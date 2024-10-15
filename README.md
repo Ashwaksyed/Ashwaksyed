@@ -6,7 +6,7 @@ My skills include Java, HTML, CSS,C, and Python. I like to explore a little more
 
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on GitHub
-- 📫 You can reach me on ashwaksyed113@gmail.com
+- 📫 You can reach me on ashwak@catalys.co
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs!
 -->
